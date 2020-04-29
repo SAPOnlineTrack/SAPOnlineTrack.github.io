@@ -22,6 +22,7 @@
 <url> <loc>https://SAPOnlineTrack.github.io/author/ronnie/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://SAPOnlineTrack.github.io/author/katan/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://SAPOnlineTrack.github.io/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://SAPOnlineTrack.github.io/schedule/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://SAPOnlineTrack.github.io/sessions/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://SAPOnlineTrack.github.io/sponsors/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
